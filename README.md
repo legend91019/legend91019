@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 你好，我是王勇顺
+
+🎓 XMU CS student / 💻 Software Engineer（learning） / 🤖 AI learner  
+🌱 Currently learning algorithm with C / Deep Learning
+
+## 🛠 Tech
+- C / Python
+- PyTorch/triton
+- Linux / Git
+
+## 🚀 Projects
+- 🧠 Paper-Abstract 
+  一个简单的论文分块、摘要程序，辅助了解与阅读论文  
+
+- 📦 AI-automatic-hairstyle-changing program
+  AI自动换发型，是我们大创项目的一部分，上传照片并选择想要换的发型就可以预览效果
+
+- 📚 CS336: Language Modeling  
+  Studying transformer-based language models, training objectives, and implementation details
+
+## 🧠 Learning Philosophy
+- Build things from scratch
+- Focus on fundamentals
+- Learn step by step, not copy-paste
+
+
+## 📫 Contact
+- Email: 15853153143@163.com
+- QQ：2799045918
