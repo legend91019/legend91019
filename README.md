@@ -40,6 +40,10 @@ Here are some ideas to get you started:
 - Focus on fundamentals
 - Learn step by step, not copy-paste
 
+## Now
+research in continual learning(**no GPU!!!**)
+about three years will in LLM,future maybe follow embodied intelligence or other direction,
+but not now
 
 ## 📫 Contact
 - Email: 15853153143@163.com
