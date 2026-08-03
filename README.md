@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 🎓 XMU CS student / 💻 Software Engineer（learning） / 🤖 AI learner  
 🌱 Currently learning algorithm with C / Deep Learning
+(济南二环西扛把子/山东历城二中小霸王/厦门大学第一深情)
 
 ## 🛠 Tech
 - C / Python
