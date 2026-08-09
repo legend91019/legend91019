@@ -28,22 +28,26 @@ Here are some ideas to get you started:
 - Linux / Git
 
 ## 🚀 Projects
-- 🧠 Paper-Abstract 
-  一个简单的论文分块、摘要程序，辅助了解与阅读论文  
+- 🧠 **Paper-Abstract**  
+  A lightweight tool for chunking and summarizing academic papers, helping me read and understand research more efficiently.
 
-- 📦 AI-automatic-hairstyle-changing program
-  AI自动换发型，是我们大创项目的一部分，上传照片并选择想要换的发型就可以预览效果
+- 🤖 **xinbao**  
+  A long-term-memory conversational robot project, with both software and hardware prototypes. Currently preparing the first software release.
 
-- 📚 CS336: Language Modeling  
-  Studying transformer-based language models, training objectives, and implementation details
+- 📚 **CS336: Language Modeling**  
+  Studying transformer-based language models, training objectives, and implementation details.
 
+- 🛠️ **Learning Claude Code**  
+  Exploring how agents are built from scratch, including workflows, tool use, memory, and practical agent engineering.
+
+  
 ## 🧠 Learning Philosophy
 - Build things from scratch
 - Focus on fundamentals
 - Learn step by step, not copy-paste
 
 ## Now
-research in continual learning(**no GPU!!!**)
+research in **continual learning** and **agent system for self-evolving**
 about three years will in LLM,future maybe follow embodied intelligence or other direction,
 but not now
 
