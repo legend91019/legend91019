@@ -31,15 +31,6 @@
 
 `Python` `Flask` `ChromaDB` `BGE` `RAG` `pywebview` `ARM Linux`
 
-### Agent Runtime / Harness 学习
-
-- [coscience](https://github.com/legend91019/coscience)：用于 AI research 的个人 harness 实验空间。
-- [my_harness](https://github.com/legend91019/my_harness)：从源码学习 Agent Runtime、工具调用、记忆、上下文和任务循环。
-- 关注 Tool Calling、Session 管理、长上下文压缩、Memory、Planning、Reflection 和错误恢复。
-
-### [现代技术博客][https://tiantingnote.com/](https://tiantingnote.com/)
-
-基于 Astro + Markdown/MDX，记录大模型、Agent 系统和工程实践，支持分类、标签、站内搜索、评论、RSS 与 Sitemap。
 
 ## 技术栈
 
