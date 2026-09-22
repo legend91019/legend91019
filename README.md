@@ -8,7 +8,7 @@
   <a href="https://arxiv.org/abs/2609.23594">Research</a> ·
   <a href="https://github.com/legend91019/Your-Desktop-dialogue-robot">Xinbao</a> ·
   <a href="https://github.com/legend91019/TinySeek-Lab">TinySeek-Lab</a> ·
-  <a href="https://github.com/legend91019/My_site">Blog</a>
+  <a href="https://tiantingnote.com/">Blog</a>
 </p>
 
 > 研究过大模型持续学习方向，目前在看Agent Memory方面论文，coding agent源代码。把RAG、语音交互和端侧部署做成过可运行的项目。
