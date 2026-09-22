@@ -45,13 +45,12 @@
 - **Stanford CS336 — Language Modeling from Scratch**：从零实现语言模型，理解数据处理、优化、训练和推理。
 - **Stanford CS329A — Agent Memory & Self-Evolving Agents**：学习长期记忆、经验积累和 Agent 自我演化机制。
 - **DeepSeek 系列架构研究**：通过 [TinySeek-Lab](https://github.com/legend91019/TinySeek-Lab) 进行复现、拆解和实验。
-- **Agent Harness 源码学习**：阅读 Pi Harness、Codex、Learn Claude Code、DeepSeek Harness 等项目。
+- **Agent Harness 源码学习**：阅读 Pi Harness、Codex、Learn-Claude-Code、DeepSeek Harness 等项目。
 
 ## 联系与更多
 
-- Email: [wangyongshun38@gmail.com](mailto:wangyongshun38@gmail.com)
-- GitHub: [@legend91019](https://github.com/legend91019)
-- Research: [arXiv:2609.23594](https://arxiv.org/abs/2609.23594)
+- Email1: [wangyongshun38@gmail.com](mailto:wangyongshun38@gmail.com)
+- Email2: [15853153143@163.com](mailto:15853153143@163.com)
 
 <p align="center">
   <sub>Build from fundamentals · Measure with experiments · Share what works</sub>
